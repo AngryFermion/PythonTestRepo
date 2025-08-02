@@ -1,10 +1,9 @@
 {
   "NXP S32K": {
-    "S32K144EVB": ["Single Stage", "Dual Stage"],
-    "S32K118EVB": ["Single Stage"]
+    "S32K144EVB": ["Single Stage", "Dual Stage"]
+
   },
   "TI C2000": {
-    "LAUNCHXL-F28069M": ["Single Stage"],
-    "TMS320F280049C": ["Dual Stage", "Single Stage"]
-  }
+    "LAUNCHXL-F28069M": ["Single Stage"]
+	}
 }
